@@ -1,0 +1,31 @@
+/* entire html body */
+body{
+	font-family: "Mandali";
+	box-sizing: border-box;
+}
+
+/* navigation bar */
+.navbar-brand {
+	font-family: "Gloria Hallelujah";
+}
+.nav-link .active a:hover{
+	background: rgba(238, 112, 105, 1);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	background-clip: text;
+}
+.navbar-nav a:hover{
+	background:rgba(238, 112, 105, 1);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+}
+
+/* jumbotron */
+.jumbotron .display-4{
+	font-family: "Gloria Hallelujah";
+	font-size: 48px;
+}
+.lead{
+	font-size:24px;
+}
